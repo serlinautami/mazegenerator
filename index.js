@@ -98,3 +98,6 @@ const mazeGenerator = function (s) {
  */
 // generator di panggil, silahkan ubah nilainya
 mazeGenerator(15);
+
+
+// perubahan di github
